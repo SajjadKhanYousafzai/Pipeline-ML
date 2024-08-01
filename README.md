@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>README: Machine Learning Introduction</h1>
+<h1>Machine Learning Introduction</h1>
 <p>Welcome to the exciting world of Machine Learning! This README is designed to give you an overview of the key concepts, tools, and techniques you'll encounter as you begin your journey.</p>
 
 <h2>Table of Contents</h2>
